@@ -1,0 +1,9 @@
+{
+    "name": "Hola Mundo PWA",
+    "short_name": "HolaMundo",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "Una simple PWA de Hola Mundo.",
+    "icons": []
+}
